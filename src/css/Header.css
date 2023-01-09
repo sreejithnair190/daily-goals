@@ -1,0 +1,20 @@
+nav{
+    background-color: rgb(48, 48, 184);
+    color: whitesmoke;
+    padding: 20px;
+    text-align: center;
+}
+
+.header{
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.header > a{
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+}
+
